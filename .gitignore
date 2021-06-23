@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/FindCar/.vs/FindCar
+/FindCar/FindCar.API/bin/Debug/netcoreapp3.1
+/FindCar/FindCar.API/obj
+/FindCar/FindCar.Core/bin/Debug/netcoreapp3.1
+/FindCar/FindCar.Core/obj
+/FindCar/FindCar.Data/bin/Debug/netcoreapp3.1
+/FindCar/FindCar.Data/obj
